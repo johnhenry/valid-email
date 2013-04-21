@@ -1,0 +1,43 @@
+{
+  "name": "valid-email",
+  "version": "0.0.1",
+  "description": "Test the validity of an email address",
+  "keywords": [
+    "whitelist",
+    "white",
+    "list",
+    "ip",
+    "address",
+    "test",
+    "connect",
+    "express",
+    "middleware"
+  ],
+  "author": {
+    "name": "John Henry",
+    "email": "john@iamjohnhenry.com"
+  },
+  "homepage": "https://github.com/johnhenry/valid-email",
+  "scripts": {
+    "test": "expresso test/*"
+  },
+  "devDependencies": {
+    "expresso": "0.9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/valid-email.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "readme": "#valid-email\r\n\r\n##Validate Email Addresses w/o pure regular expressions.\r\nRegular expression validation is often useful, but also often inaccurate.\r\nSometimes it's just better to do it manually\r\n\r\n\r\n\r\n## Example\r\n\r\n```js\r\n    console.log(require('valid-email')('john@iamjohnhenry.com'))//#true\r\n    console.log(require('valid-email')('iamjohnhenry.com'))//#false\r\n```",
+  "readmeFilename": "README.md",
+  "_id": "valid-email@0.0.1",
+  "dist": {
+    "shasum": "132ac57485a23eb73efa44b6fd8731fcce711e91"
+  },
+  "_resolved": "git://github.com/johnhenry/Valid-Email.git#7ef74ae8d30e0aba8a47d15ce1d26fe45e03b0b3",
+  "_from": "valid-email@git://github.com/johnhenry/Valid-Email.git#master"
+}
