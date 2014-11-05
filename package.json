@@ -1,6 +1,6 @@
 {
   "name": "valid-email",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test the validity of an email address",
   "keywords": ["valid","email","test","validity","check"],
   "author": "John Henry <john@iamjohnhenry.com>",
@@ -16,5 +16,5 @@
     "url": "git://github.com/johnhenry/valid-email.git"
   },
   "main": "index",
-  "engines": { "node": "0.8.x" }
+  "engines": { "node": "^0.8.x" }
 }
