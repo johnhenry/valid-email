@@ -23,4 +23,4 @@ Please be aware of the levels of accuracy your application needs.
 
 ## Warning
 
-The majority of this code was pasted from stackoverflow. Use at your own risk.
+This code is compiled from untested code found on [stackoverflow](https://stackoverflow.com) and is mainly intended for academic purposes. Use at your own risk.
