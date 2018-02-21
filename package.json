@@ -1,20 +1,28 @@
 {
   "name": "valid-email",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test the validity of an email address",
-  "keywords": ["valid","email","test","validity","check"],
+  "keywords": [
+    "valid",
+    "email",
+    "test",
+    "validity",
+    "check"
+  ],
   "author": "John Henry <john@iamjohnhenry.com>",
   "homepage": "https://github.com/johnhenry/valid-email",
   "scripts": {
-      "test": "expresso test/*"
-      },
-    "devDependencies":{
-        "expresso":"0.9.x"
+    "test": "expresso test/*"
+  },
+  "devDependencies": {
+    "expresso": "0.9.x"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/johnhenry/valid-email.git"
   },
   "main": "index",
-  "engines": { "node": ">=0.8" }
+  "engines": {
+    "node": ">=0.8"
+  }
 }
