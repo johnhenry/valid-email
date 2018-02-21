@@ -1,6 +1,6 @@
 {
   "name": "valid-email",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Test the validity of an email address",
   "keywords": [
     "valid",
