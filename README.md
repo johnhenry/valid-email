@@ -21,3 +21,6 @@ There are other methods which may be more accurate but more difficult ensure tha
 
 Please be aware of the levels of accuracy your application needs.
 
+## Warning
+
+The majority of this code was pasted from stackoverflow. Use at your own risk.
