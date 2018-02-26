@@ -1,6 +1,6 @@
 {
   "name": "valid-email",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test the validity of an email address",
   "author": "John Henry <john@iamjohnhenry.com>",
   "homepage": "https://github.com/johnhenry/valid-email",
@@ -13,8 +13,7 @@
   "files": [
     "index.js"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "valid",
     "email",
