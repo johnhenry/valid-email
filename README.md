@@ -24,3 +24,5 @@ Please be aware of the levels of accuracy your application needs.
 ## Warning
 
 This code is compiled from untested code found on [stackoverflow](https://stackoverflow.com) and is mainly intended for academic purposes. Use at your own risk.
+
+Much thanks to [@davisjam](https://github.com/davisjam) for helping me to patch a recent security vunerability https://github.com/johnhenry/valid-email/issues/4 .
