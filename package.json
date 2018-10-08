@@ -11,7 +11,8 @@
     "url": "git://github.com/johnhenry/valid-email.git"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "lib/"
   ],
   "scripts": {},
   "keywords": [
